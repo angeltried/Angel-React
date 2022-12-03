@@ -1,38 +1,49 @@
-# <angel-react>
+# Getting Started with Create React App
 
-## Description
+This project was bootstrapped with Create React App.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+## Available Scripts
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In the project directory, you can run:
 
-## Table of Contents (Optional)
+### npm start
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+The page will reload when you make changes.
+You may also see any lint errors in the console.
 
-## Installation
+### npm test
 
-## Usage
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
 
-## Credits
+### npm run build
 
-## License
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Badges
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
 
-## Features
+See the section about deployment for more information.
+
+### npm run eject
+
+Note: this is a one-way operation. Once you eject, you can't go back!
+
+If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+#### Learn More
+
+You can learn more in the Create React App documentation.
+
+To learn React, check out the React documentation.
 
 
-## How to Contribute
-
-
-## Tests
 
